@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Антонов Бусти: Слив Контента из Boosty и Telegram</title>
+    
+    <meta name="description" content="Полный доступ к эксклюзиву Антонов Бусти! Узнайте как смотреть слитый контент из Boosty через специальный Telegram-канал.">
+    <meta name="keywords" content="антонов бусти, антонов boosty, слив антонов бусти, telegram слив, boosty контент">
+    
+    <meta property="og:title" content="Антонов Бусти: Бесплатный Слив Эксклюзивного Контента">
+    <meta property="og:description" content="Смотрите материалы Антонов Бусти из Boosty через проверенный Telegram-канал. Актуальные слитые видео и разборы.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://example.com/antonov-boosty.jpg">
+    
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #0088cc;
+            --success: #4caf50;
+            --warning: #ff9800;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: var(--primary);
+            background: #f8f9fa;
+            margin: 0;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--accent), #0077b6);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            font-weight: 700;
+        }
+
+        .cta-button {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 14px 40px;
+            background: var(--success);
+            color: white;
+            font-weight: 600;
+            border-radius: 30px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .content {
+            padding: 2rem;
+        }
+
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid #eee;
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+
+        .feature-box {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+
+        .feature-box ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .feature-box li {
+            padding-left: 2rem;
+            position: relative;
+        }
+
+        .feature-box li:before {
+            content: '✓';
+            color: var(--success);
+            position: absolute;
+            left: 0;
+        }
+
+        .warning-box {
+            background: #fff3cd;
+            border-left: 4px solid var(--warning);
+            padding: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            .cta-button {
+                width: 100%;
+                padding: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Антонов Бусти: Эксклюзивный Контент без Оплаты</h1>
+            <a href="https://t.me/antonov_free1" class="cta-button" target="_blank">Перейти к Слитому Контенту</a>
+        </header>
+
+        <div class="content">
+            <section>
+                <h2>Что Представляет Собой Антонов Бусти?</h2>
+                <div class="feature-box">
+                    <p>Проект <strong>Антонов Бусти</strong> включает:</p>
+                    <ul>
+                        <li>Детальные разборы финансовых инструментов</li>
+                        <li>Прогнозы криптовалютного рынка</li>
+                        <li>Обзоры инвестиционных стратегий</li>
+                        <li>Эксклюзивные интервью с экспертами</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section>
+                <h2>Как Получить Доступ к Антонов Бусти?</h2>
+                <div class="feature-box">
+                    <p>Три проверенных способа:</p>
+                    <ol>
+                        <li>
+                            <strong>Telegram-канал</strong><br>
+                            <a href="https://t.me/antonov_free1" target="_blank">Антонов Бусти Слив</a> 
+                            с актуальными материалами из Boosty
+                        </li>
+                        <li>
+                            <strong>Официальный YouTube</strong><br>
+                            Бесплатные ролики с базовыми версиями контента
+                        </li>
+                        <li>
+                            <strong>Сообщества энтузиастов</strong><br>
+                            Форумы и чаты с обменом материалами
+                        </li>
+                    </ol>
+                </div>
+            </section>
+
+            <div class="warning-box">
+                <strong>Важно!</strong> При использовании <strong>Антонов Бусти слив</strong>:
+                <ul>
+                    <li>Проверяйте дату публикации контента</li>
+                    <li>Избегайте файлов с подозрительными расширениями</li>
+                    <li>Используйте только проверенные источники</li>
+                </ul>
+            </div>
+
+            <section>
+                <h2>Преимущества Официального Boosty</h2>
+                <div class="feature-box">
+                    <p>Подписка на <a href="https://boosty.to/antonovtakoiantonov" target="_blank">Boosty</a> дает:</p>
+                    <ul>
+                        <li>Ежедневные обновления материалов</li>
+                        <li>Приоритетную поддержку</li>
+                        <li>Участие в закрытых мероприятиях</li>
+                        <li>Сертификаты об окончании курсов</li>
+                    </ul>
+                </div>
+            </section>
+
+            <a href="https://t.me/antonov_free1" class="cta-button" target="_blank">Получить Антонов Бусти Слив</a>
+        </div>
+    </div>
+</body>
+</html>
