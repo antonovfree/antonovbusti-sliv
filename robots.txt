@@ -1,0 +1,5 @@
+# robots.txt
+
+Sitemap: antonovfree.github.io/sitemap.xml
+User-agent: *
+Allow: antonovfree.github.io
